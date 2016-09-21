@@ -1,0 +1,32 @@
+{
+	"id": 1,
+	"jsonrpc": "2.0",
+	"result": {
+		"storeName": "Lozcar Gourmet",
+                "address": "Robert Bosh, Toluca, Estado de México",
+                "desc": "Cafeteria Gourmet con refinado estilo Lounge que sirve deliciosos y nutritivos platillos preparados con ingredientes seleccionados y con altro estricto control higienico.",
+                "phoneNumber": "+306973216110",
+                "email": "lozcar@gmail.com",
+                "officeLocation": "37.7736854,-122.421034",
+                "facebookPage": "https://www.facebook.com/lozcargourmet",
+                "instagramPage": "https://instagram.com/lozcargourmet/",
+                "twitterPage": "https://twitter.com/lozcargourmet/",
+                "pinterestPage": "https://www.lozcargourmet.com/",
+		"map": {
+			"origin": {
+					"latitude" : 37.407,
+					"longitude" : -122.1
+			},
+			"zoomLevel": 15,
+			"annotations" : [{
+					"title" : "Molestie et wisi.",
+					"latitude" : 37.407,
+					"longitude" : -122.1
+			}, {
+					"title" : "Ullamcorper eros.",
+					"latitude" : 37.41,
+					"longitude" : -122.1
+			}]
+		}
+	}
+}
