@@ -12,7 +12,7 @@
 		var categoriesUrl = 'http://lozcar.bitnamiapp.com/mobile/food_categories.php';
 		var featuredProductsUrl = 'https://skounis.s3.amazonaws.com/mobile-apps/restaurant-ionic/featured.json';
 		var businessUrl = 'http://lozcar.bitnamiapp.com/api/locations/find/14';
-		var newsUrl = 'https://skounis.s3.amazonaws.com/mobile-apps/restaurant-ionic/news.json';
+		var newsUrl = 'http://lozcar.bitnamiapp.com/api/banners';
 		var categories = [];
 		var featuredProducts;
 		var products = {};
